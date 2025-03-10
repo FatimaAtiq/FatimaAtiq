@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaka Ur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Fatima Atiq</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
 - 🌱 I’m currently learning Web Programming Learning **HTML, CSS, JAVASCRIPT**
