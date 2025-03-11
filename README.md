@@ -3,7 +3,7 @@
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects (with over 150 in private repositories) and cand create tech-related Instagram posts, where I have 75K followers and growing.
+Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects.
 
 - 🌱 I’m currently learning Web Programming Learning **HTML, CSS, JAVASCRIPT**
 
