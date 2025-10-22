@@ -12,7 +12,7 @@ Outside of work, I am passionate about expanding my knowledge of the tech world.
 - 📫 How to contact me
 
 - ✉️ Email: **fatimaatiq7211@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white) **https://www.linkedin.com/in/fatimaatiq/**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> **https://www.linkedin.com/in/fatimaatiq/**
 
 #### Fun Facts:
 - I like tea.
