@@ -9,7 +9,10 @@ Outside of work, I am passionate about expanding my knowledge of the tech world.
 
 - 👨‍💻 All of my projects are available at [(https://github.com/FatimaAtiq)]
 
-- 📫 How to contact me **fatimaatiq7211@gmail.com**
+- 📫 How to contact me
+
+- ✉️ Email: **fatimaatiq7211@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimaatiq/)
 
 #### Fun Facts:
 - I like tea.
