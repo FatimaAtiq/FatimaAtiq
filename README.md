@@ -5,7 +5,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects.
 
-- 🌱 I’m currently learning Mobile Application Development Learning **Flutter, Dart**, Game Programming **Unity, C#**, UX/UI **Figma**, Computer Graphics **Adobe Illustrator**
+- 🌱 I’m currently learning DevOps, Information Security, and Compiler Construction.
 
 - 👨‍💻 All of my projects are available at [(https://github.com/FatimaAtiq)]
 
